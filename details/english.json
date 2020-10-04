@@ -12013,198 +12013,198 @@
         }
     ],
   "gameItems": [
-    {
-      "key": 0,
-      "value": "Start"
-    },
-    {
-      "key": 1,
-      "value": "News"
-    },
-    {
-      "key": 2,
-      "value": "Quit"
-    },
-    {
-      "key": 3,
-      "value": "Back"
-    },
-    {
-      "key": 4,
-      "value": "* Disclaimer * Guess the PokeQuiz is an unofficial, free fan made app and is NOT affiliated, endorsed or supported by Nintendo, GAME FREAK or The Pokemon company in any way. Some images used in this app are copyrighted and are supported under fair use. Pokemon and Pokemon character names are trademarks of Nintendo. No copyright infringement intended.  Pokemon © 2002-2019 Pokemon. © 1995-2019 Nintendo/Creatures Inc./GAME FREAK inc."
-    },
-    {
-      "key": 5,
-      "value": "Blocked!"
-    },
-    {
-      "key": 6,
-      "value": "1 Ramdom letter"
-    },
-    {
-      "key": 7,
-      "value": "Delete letters"
-    },
-    {
-      "key": 8,
-      "value": "Complete solution"
-    },
-    {
-      "key": 9,
-      "value": "More Pokis"
-    },
-    {
-      "key": 10,
-      "value": "Free Pokis"
-    },
-    {
-      "key": 11,
-      "value": "Buy Pokis"
-    },
-    {
-      "key": 12,
-      "value": "Continue"
-    },
-    {
-      "key": 13,
-      "value": "Main Menu"
-    },
-    {
-      "key": 14,
-      "value": "Correct!"
-    },
-    {
-      "key": 15,
-      "value": "Do you like PokeMega Quiz?"
-    },
-    {
-      "key": 16,
-      "value": "Rate"
-    },
-    {
-      "key": 18,
-      "value": "Later"
-    },
-    {
-      "key": 17,
-      "value": "No Rate!"
-    },
-    {
-      "key": 19,
-      "value": "Consent to privacy"
-    },
-    {
-      "key": 20,
-      "value": "Personalized advertising"
-    },
-    {
-      "key": 21,
-      "value": "Allow the Ad networks to use the collected date for personalized advertising."
-    },
-    {
-      "key": 22,
-      "value": "Yes"
-    },
-    {
-      "key": 23,
-      "value": "No"
-    },
-    {
-      "key": 24,
-      "value": "Have you ever played?"
-    },
-    {
-      "key": 25,
-      "value": "Load Old score?"
-    },
-    {
-      "key": 26,
-      "value": "Hello player*in, we use to optimize our app the game and device data. By pressing \"Confirm\" you agree to this. Otherwise, please close the app."
-    },
-    {
-      "key": 27,
-      "value": "Do you want to see relevant ads for you?"
-    },
-    {
-      "key": 28,
-      "value": "Confirm"
-    },
-    {
-      "key": 29,
-      "value": "Learn more"
-    },
-    {
-      "key": 30,
-      "value": "Delete a reply"
-    },
-    {
-      "key": 31,
-      "value": "Delete two answers"
-    },
-    {
-      "key": 32,
-      "value": "Guess twice"
-    },
-    {
-      "key": 33,
-      "value": "Help me completing my level!"
-    },
-    {
-      "key": 34,
-      "value": "Ask friends"
-    },
-    {
-      "key": 35,
-      "value": "Help"
-    },
-    {
-      "key": 36,
-      "value": "Bet"
-    },
-    {
-      "key": 37,
-      "value": "Use hints if you get stuck."
-    },
-    {
-      "key": 38,
-      "value": "Tap on a letter to delete it. Swipe over all letters to clear them."
-    },
-    {
-      "key": 39,
-      "value": "Use your finger to scratch the pattern to expose the image."
-    },
-    {
-      "key": 40,
-      "value": "By tapping on the picture, it gets sharper. (Costing Pokis)"
-    },
-    {
-      "key": 41,
-      "value": "By tapping on the picture, its get sharper. (Costing Pokis)"
-    },
-    {
-      "key": 42,
-      "value": "Start aiming, tab the second time to shoot. (Costing Pokis)"
-    },
-    {
-      "key": 43,
-      "value": "Start aiming, tap the second time to shoot. (Costing Pokis)"
-    },
-    {
-      "key": 44,
-      "value": "Tap here for more information."
-    },
-    {
-      "key": 45,
-      "value": "Easy or hard? Now give your bet."
-    },
-    {
-      "key": 46,
-      "value": "More Games"
-    },
-    {
-      "key": 47,
-      "value": "Retry"
-    }
+      {
+        "key": 0,
+        "value": "Start"
+      },
+      {
+        "key": 1,
+        "value": "News"
+      },
+      {
+        "key": 2,
+        "value": "Quit"
+      },
+      {
+        "key": 3,
+        "value": "Back"
+      },
+      {
+        "key": 4,
+        "value": "* Disclaimer * Guess the PokeQuiz is an unofficial, free fan made app and is NOT affiliated, endorsed or supported by Nintendo, GAME FREAK or The Pokemon company in any way. Some images used in this app are copyrighted and are supported under fair use. Pokemon and Pokemon character names are trademarks of Nintendo. No copyright infringement intended.  Pokemon © 2002-2019 Pokemon. © 1995-2019 Nintendo/Creatures Inc./GAME FREAK inc."
+      },
+      {
+        "key": 5,
+        "value": "Blocked!"
+      },
+      {
+        "key": 6,
+        "value": "1 Ramdom letter"
+      },
+      {
+        "key": 7,
+        "value": "Delete letters"
+      },
+      {
+        "key": 8,
+        "value": "Complete solution"
+      },
+      {
+        "key": 9,
+        "value": "More Pokis"
+      },
+      {
+        "key": 10,
+        "value": "Free Pokis"
+      },
+      {
+        "key": 11,
+        "value": "Buy Pokis"
+      },
+      {
+        "key": 12,
+        "value": "Continue"
+      },
+      {
+        "key": 13,
+        "value": "Main Menu"
+      },
+      {
+        "key": 14,
+        "value": "Correct!"
+      },
+      {
+        "key": 15,
+        "value": "Do you like PokeMega Quiz?"
+      },
+      {
+        "key": 16,
+        "value": "Rate"
+      },
+      {
+        "key": 18,
+        "value": "Later"
+      },
+      {
+        "key": 17,
+        "value": "No Rate!"
+      },
+      {
+        "key": 19,
+        "value": "Consent to privacy"
+      },
+      {
+        "key": 20,
+        "value": "Personalized advertising"
+      },
+      {
+        "key": 21,
+        "value": "Allow the Ad networks to use the collected date for personalized advertising."
+      },
+      {
+        "key": 22,
+        "value": "Yes"
+      },
+      {
+        "key": 23,
+        "value": "No"
+      },
+      {
+        "key": 24,
+        "value": "Have you ever played?"
+      },
+      {
+        "key": 25,
+        "value": "Load Old score?"
+      },
+      {
+        "key": 26,
+        "value": "Hello player*in, we use to optimize our app the game and device data. By pressing \"Confirm\" you agree to this. Otherwise, please close the app."
+      },
+      {
+        "key": 27,
+        "value": "Do you want to see relevant ads for you?"
+      },
+      {
+        "key": 28,
+        "value": "Confirm"
+      },
+      {
+        "key": 29,
+        "value": "Learn more"
+      },
+      {
+        "key": 30,
+        "value": "Delete a reply"
+      },
+      {
+        "key": 31,
+        "value": "Delete two answers"
+      },
+      {
+        "key": 32,
+        "value": "Guess twice"
+      },
+      {
+        "key": 33,
+        "value": "Help me completing my level!"
+      },
+      {
+        "key": 34,
+        "value": "Ask friends"
+      },
+      {
+        "key": 35,
+        "value": "Help"
+      },
+      {
+        "key": 36,
+        "value": "Bet"
+      },
+      {
+        "key": 37,
+        "value": "Use hints if you get stuck."
+      },
+      {
+        "key": 38,
+        "value": "Tap on a letter to delete it. Swipe over all letters to clear them."
+      },
+      {
+        "key": 39,
+        "value": "Use your finger to scratch the pattern to expose the image."
+      },
+      {
+        "key": 40,
+        "value": "By tapping on the picture, it gets sharper. (Costing Pokis)"
+      },
+      {
+        "key": 41,
+        "value": "By tapping on the picture, its get sharper. (Costing Pokis)"
+      },
+      {
+        "key": 42,
+        "value": "Start aiming, tab the second time to shoot. (Costing Pokis)"
+      },
+      {
+        "key": 43,
+        "value": "Start aiming, tap the second time to shoot. (Costing Pokis)"
+      },
+      {
+        "key": 44,
+        "value": "Tap here for more information."
+      },
+      {
+        "key": 45,
+        "value": "Easy or hard? Now give your bet."
+      },
+      {
+        "key": 46,
+        "value": "More Games"
+      },
+      {
+        "key": 47,
+        "value": "Retry"
+      }
   ],
     "subCategories": [
         {
