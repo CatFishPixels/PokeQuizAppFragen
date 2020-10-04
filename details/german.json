@@ -12,11 +12,7 @@
                     "rightAnswer": "Bisasam",
                     "imageText": "Dieses Pokémon trägt von Geburt an einen Samen auf dem Rücken, der im Laufe der Zeit keimt und wächst.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -25,11 +21,7 @@
                     "rightAnswer": "Bisaknosp",
                     "imageText": "Sobald die Knospe auf seinem Rücken groß wird, kann *** nicht mehr auf zwei Beinen stehen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -38,11 +30,7 @@
                     "rightAnswer": "Bisaflor",
                     "imageText": "Es nutzt Solarenergie als Nahrung und bringt so seine große Blume zum Blühen. Es geht dorthin, wo die Sonne scheint.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -51,11 +39,7 @@
                     "rightAnswer": "Glumanda",
                     "imageText": "Dieses Pokémon bevorzugt heiße Dinge. Bei Regen soll seine Schwanzspitze dampfen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -64,11 +48,7 @@
                     "rightAnswer": "Glutexo",
                     "imageText": "Es ist brutal veranlagt. Im Kampf schlägt es mit seinem brennenden Schweif um sich und schlitzt Gegner mit seinen scharfen Klauen auf.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -77,11 +57,7 @@
                     "rightAnswer": "Glurak",
                     "imageText": "Dieses Pokémon kann mit seinem Feueratem Felsen schmelzen. Es verursacht ab und zu Waldbrände.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -90,11 +66,7 @@
                     "rightAnswer": "Schiggy",
                     "imageText": "Zieht es seinen langen Hals in seinen Panzer zurück, verspritzt es Wasser mit unbändiger Kraft.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -103,11 +75,7 @@
                     "rightAnswer": "Schillok",
                     "imageText": "Es gilt als Symbol für Langlebigkeit. Sehr alte Exemplare erkennt man daran, dass ihr Panzer mit Algen übersät ist.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -116,11 +84,7 @@
                     "rightAnswer": "Turtok",
                     "imageText": "Es begräbt seine Gegner mit seinem enormen Körpergewicht. Wenn es in einer aussichtslosen Lage steckt, zieht es sich in seinen Panzer zurück.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -129,11 +93,7 @@
                     "rightAnswer": "Raupy",
                     "imageText": "Als Schutz vor Feinden sondert es einen übel riechenden Gestank mit seinen Antennen ab.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -142,11 +102,7 @@
                     "rightAnswer": "Safcon",
                     "imageText": "In diesem Zustand wartet es auf die Entwicklung. Es kann nur seinen Panzer erhärten, daher bewegt es sich nicht, um nicht angegriffen zu werden.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -155,11 +111,7 @@
                     "rightAnswer": "Smettbo",
                     "imageText": "Wenn es sehr schnell mit den Flügeln schlägt, setzt es hochgiftigen Flügelstaub frei.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -168,11 +120,7 @@
                     "rightAnswer": "Hornliu",
                     "imageText": "Auf seinem Kopf befindet sich ein spitzer Stachel. Es versteckt sich im hohen Gras sowie in Wäldern und frisst eifrig Blätter.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -181,11 +129,7 @@
                     "rightAnswer": "Kokuna",
                     "imageText": "Obwohl es sich kaum bewegen kann, ist es bei Gefahr in der Lage, einen Stachel auszufahren, mit dem es seine Gegner vergiftet.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -194,11 +138,7 @@
                     "rightAnswer": "Bibor",
                     "imageText": "Es verfügt über insgesamt drei Giftstachel, zwei an den Armen und einen am Hinterleib, mit denen es seine Gegner wiederholt angreift.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -207,11 +147,7 @@
                     "rightAnswer": "Taubsi",
                     "imageText": "Ein sanftmütiges Pokémon, welches lieber Sand zum Schutz aufwirbelt, als zurückzuschlagen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -220,11 +156,7 @@
                     "rightAnswer": "Tauboga",
                     "imageText": "Dieses kraftvolle Pokémon wacht unermüdlich über sein riesiges Territorium und fliegt weite Strecken auf der Suche nach Beute.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -233,11 +165,7 @@
                     "rightAnswer": "Tauboss",
                     "imageText": "Auf der Jagd nach Beute fliegt es mit einer Geschwindigkeit von bis zu Mach 2. Seine mächtigen Klauen gelten als gefürchtete Waffen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -246,11 +174,7 @@
                     "rightAnswer": "Rattfratz",
                     "imageText": "Es knabbert mit seinen zwei Nagezähnen alles und jeden an. Stößt man auf eines, findet man sicherlich 40 weitere in der Gegend.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -259,11 +183,7 @@
                     "rightAnswer": "Rattikarl",
                     "imageText": "Die Hinterbeine dieses Pokémon verfügen über kleine Schwimmhäute. So kann es in Flüssen jagen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -272,11 +192,7 @@
                     "rightAnswer": "Habitak",
                     "imageText": "In großen Höhen fällt ihm das Fliegen schwer. Allerdings kann es pfeilschnell umherflitzen, wenn es um den Schutz seines Habitats geht.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -285,11 +201,7 @@
                     "rightAnswer": "Ibitak",
                     "imageText": "Dieses Pokémon gehört einer sehr alten Spezies an. Wittert es Gefahr, so fliegt es sofort in große Höhen davon.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -298,11 +210,7 @@
                     "rightAnswer": "Rettan",
                     "imageText": "Mit dem Alter wird der Körper dieses Pokémon immer länger. Nachts wickelt es sich um Äste, um zu ruhen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -311,11 +219,7 @@
                     "rightAnswer": "Arbok",
                     "imageText": "Von dem furchterregenden Muster auf seinem Bauch wurden durch Studien bislang sechs verschiedene Varianten entdeckt.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -324,11 +228,7 @@
                     "rightAnswer": "Pikachu",
                     "imageText": "Je stärker die Elektrizität ist, die *** produziert, desto weicher und elastischer sind seine Backentaschen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -337,11 +237,7 @@
                     "rightAnswer": "Raichu",
                     "imageText": "Sein langer Schweif dient ihm zur Erdung. So bleibt es von der lähmenden Wirkung von Hochspannung selbst verschont.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -350,11 +246,7 @@
                     "rightAnswer": "Sandan",
                     "imageText": "Es badet sehr gern im trockenen Sand. Dadurch befreit es seinen Körper von Schmutz und Feuchtigkeit.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -363,11 +255,7 @@
                     "rightAnswer": "Sandamer",
                     "imageText": "Je trockener das Gebiet ist, in dem *** lebt, desto härter und glatter fühlen sich die Stacheln an seinem Rücken an.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -376,11 +264,7 @@
                     "rightAnswer": "Nidoran",
                     "imageText": "Es hat ein sanftes Gemüt und meidet den Kampf, doch da aus seinem kleinen Horn Gift austritt, ist trotzdem Vorsicht geboten.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -389,11 +273,7 @@
                     "rightAnswer": "Nidorina",
                     "imageText": "Während es sich in seinem Bau aufhält, zieht es seine Stacheln stets ein. Damit signalisiert es, dass es entspannt ist.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -402,11 +282,7 @@
                     "rightAnswer": "Nidoqueen",
                     "imageText": "*** besitzt einen robusten Körper, der von harten Schuppen bedeckt ist. Diese scheinen immer wieder nachzuwachsen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -415,11 +291,7 @@
                     "rightAnswer": "Nidoran",
                     "imageText": "Es stellt seine großen Ohren auf, um so seine Umgebung zu überwachen. Droht Gefahr, so greift es mit seinen Giftstacheln an.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -428,11 +300,7 @@
                     "rightAnswer": "Nidorino",
                     "imageText": "Das Horn dieses Pokémon sondert im Kampf ein sehr starkes Gift ab, wenn es den Gegner trifft.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -441,11 +309,7 @@
                     "rightAnswer": "Nidoking",
                     "imageText": "Dank seiner stahlharten Haut kann es Gegner besonders effektiv rammen. Mit seinem Horn spaltet es sogar Diamanten.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -454,11 +318,7 @@
                     "rightAnswer": "Piepi",
                     "imageText": "Eine Ansammlung von *** bei Vollmond tanzen zu sehen, soll ein glückliches Leben verheißen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -467,11 +327,7 @@
                     "rightAnswer": "Pixi",
                     "imageText": "Ein feenhaftes und scheues Pokémon, das sofort die Flucht ergreift, wenn es Menschen wahrnimmt.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -480,11 +336,7 @@
                     "rightAnswer": "Vulpix",
                     "imageText": "In seiner Jugend hat es sechs hinreißende Schweife. Während es wächst, kommen noch weitere neue Schweife hinzu.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -493,11 +345,7 @@
                     "rightAnswer": "Vulnona",
                     "imageText": "Man sagt, es lebe 1 000 Jahre und jedem seiner Schweife wohnen übernatürliche Kräfte inne.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -506,11 +354,7 @@
                     "rightAnswer": "Pummeluff",
                     "imageText": "Sein Lungenvolumen übersteigt das der meisten anderen Pokémon. Es singt so lange Schlaflieder, bis seine Gegner eingenickt sind.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -519,11 +363,7 @@
                     "rightAnswer": "Knuddeluff",
                     "imageText": "Je mehr Luft es einatmet, desto größer wird es. Ist es verärgert, bläst es seinen Körper enorm auf und schüchtert so seine Gegner ein.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -532,11 +372,7 @@
                     "rightAnswer": "Zubat",
                     "imageText": "*** stößt während des Fluges Ultraschalllaute aus, um Hindernisse zu orten.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -545,11 +381,7 @@
                     "rightAnswer": "Golbat",
                     "imageText": "*** nähert sich schnell und lautlos an. Mit seinen spitzen Zähnen beißt es zu und saugt seinen Opfern Blut ab.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -558,11 +390,7 @@
                     "rightAnswer": "Myrapla",
                     "imageText": "Wird es vom Mondschein getroffen, bewegt es sich. Nachts wandert es weite Wege, um seine Samen zu verstreuen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -571,11 +399,7 @@
                     "rightAnswer": "Duflor",
                     "imageText": "Sein Stempel sondert einen unglaublich faulen Gestank ab. Dieser stechende Geruch kann selbst bis zu 2 km entfernte Gegner bewusstlos machen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -584,11 +408,7 @@
                     "rightAnswer": "Giflor",
                     "imageText": "Es besitzt die größten Blütenblätter der Welt. Bei jedem Schritt streut es große Mengen an Giftpollen zu Boden.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -597,11 +417,7 @@
                     "rightAnswer": "Paras",
                     "imageText": "Es gräbt sich in den Boden, um Baumwurzeln Nährstoffe zu entziehen. Den Großteil davon absorbieren jedoch die Pilze auf seinem Rücken.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -610,11 +426,7 @@
                     "rightAnswer": "Parasek",
                     "imageText": "Der Pilz auf *** Rücken nutzt das Pokémon als Wirt und entzieht ihm Energie. Es scheint, als habe er die Kontrolle über das Pokémon.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -623,11 +435,7 @@
                     "rightAnswer": "Bluzuk",
                     "imageText": "Seine großen Augen fungieren als Radar. Im Licht kann man erkennen, dass sie aus unzähligen, sehr kleinen Augen bestehen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -636,11 +444,7 @@
                     "rightAnswer": "Omot",
                     "imageText": "Berührt man die staubartigen Schuppen auf seinen Flügeln, heften diese sich hartnäckig am Körper an und sondern darüber hinaus Gift ab.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -649,11 +453,7 @@
                     "rightAnswer": "Digda",
                     "imageText": "Bewegt sich ein *** unterirdisch fort, pflügt es dabei den Erdboden gleich mit und bereitet so den Anbau von Feldfrüchten vor.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -662,11 +462,7 @@
                     "rightAnswer": "Digdri",
                     "imageText": "Diese ***-Drillinge graben sich manchmal bis zu 100 km tief in den Erdboden und lösen dadurch Erdbeben aus.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -675,11 +471,7 @@
                     "rightAnswer": "Mauzi",
                     "imageText": "Es sammelt mit Vorliebe glänzende Gegenstände. Ist es gut gelaunt, lässt es seinen Trainer einen Blick auf seine Sammlung werfen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -688,11 +480,7 @@
                     "rightAnswer": "Snobilikat",
                     "imageText": "Es ist sehr stolz, was es nicht leicht macht, mit ihm Freundschaft zu schließen. Wenn ihm etwas missfällt, fährt es unverzüglich die Krallen aus.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -701,11 +489,7 @@
                     "rightAnswer": "Enton",
                     "imageText": "*** leidet permanent unter Kopfschmerzen. Wenn es seine geheimnisvollen Kräfte freisetzt, sollen die Schmerzen für eine Weile nachlassen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -714,11 +498,7 @@
                     "rightAnswer": "Entoron",
                     "imageText": "Dieses Pokémon lebt in sanft fließenden Flüssen. Mit seinen langen Gliedmaßen schwimmt es voller Eleganz durch das Wasser.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -727,11 +507,7 @@
                     "rightAnswer": "Menki",
                     "imageText": "Es ist sehr agil und lebt auf Bäumen. Aufgrund seiner hitzköpfigen Natur wird es schnell wütend, was dazu führt, dass es alles und jeden angreift.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -740,11 +516,7 @@
                     "rightAnswer": "Rasaff",
                     "imageText": "Es hört lediglich dann auf zu toben, wenn niemand in der Nähe ist. Diesen Anblick zu Gesicht zu bekommen, ist daher nicht einfach.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -753,11 +525,7 @@
                     "rightAnswer": "Fukano",
                     "imageText": "Es ist von Natur aus tapfer und vertrauenswürdig und scheut auch vor Gegnern nicht zurück, die größer und stärker sind als es selbst.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -766,11 +534,7 @@
                     "rightAnswer": "Arkani",
                     "imageText": "Viele Trainer sind davon fasziniert, dass dieses Pokémon innerhalb eines Tages 10 000 km zurücklegen kann.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -779,11 +543,7 @@
                     "rightAnswer": "Quapsel",
                     "imageText": "*** kann besser schwimmen als laufen. Das Spiralmuster auf seinem Bauch ist ein Teil seiner Innereien, der durch die Haut sichtbar ist.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -792,11 +552,7 @@
                     "rightAnswer": "Quaputzi",
                     "imageText": "Wer länger auf seine Bauchspirale blickt, wird schläfrig. Manche Leute nutzen dies anstelle eines Schlaflieds, damit ihre Kinder einschlafen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -805,11 +561,7 @@
                     "rightAnswer": "Quappo",
                     "imageText": "Sein ganzer Körper besteht fast nur aus Muskeln. In kalten Meeren zerschlägt es mit seinen starken Armen Treibeis, um voranzukommen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -818,11 +570,7 @@
                     "rightAnswer": "Abra",
                     "imageText": "Es setzt seine Psycho-Kräfte selbst im Schlaf ein. Der Inhalt seiner Träume hat Einfluss auf die Kräfte, die es verwendet.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -831,11 +579,7 @@
                     "rightAnswer": "Kadabra",
                     "imageText": "*** Psycho-Kräfte ermöglichen es ihm, schwebend zu schlafen. Seinen äußerst elastischen Schweif nutzt es dabei als Kissen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -844,11 +588,7 @@
                     "rightAnswer": "Simsala",
                     "imageText": "Es verfügt über extrem hohe Intelligenz und soll sich an alles erinnern können, was zwischen seiner Geburt und seinem Tod passiert.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -857,11 +597,7 @@
                     "rightAnswer": "Machollo",
                     "imageText": "Sein ganzer Körper besteht aus Muskeln. Auch wenn es nur so groß wie ein Menschenkind ist, kann es 100 Erwachsene jonglieren.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -870,11 +606,7 @@
                     "rightAnswer": "Maschock",
                     "imageText": "Dieses Pokémon ist superstark. Es kann sich nur mit einem kraftregulierenden Gürtel bewegen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -883,11 +615,7 @@
                     "rightAnswer": "Machomei",
                     "imageText": "Es verwendet seine vier Arme, um seine Gegner unermüdlich mit schnellen Schlägen aus allen Winkeln einzudecken.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -896,11 +624,7 @@
                     "rightAnswer": "Knofensa",
                     "imageText": "*** bevorzugt einen warmen und feuchten Lebensraum. Es ernährt sich von kleinen Käfer-Pokémon, die es mit seinen Ranken fängt.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -909,11 +633,7 @@
                     "rightAnswer": "Ultrigaria",
                     "imageText": "Wenn es hungrig ist, schnappt es willkürlich nach allem, was sich bewegt. Nachdem es seine Beute verschluckt hat, schaltet es sie mit Säure aus.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -922,11 +642,7 @@
                     "rightAnswer": "Sarzenia",
                     "imageText": "Es lockt Beute mit einem Duft an, der an Honig erinnert. Was in sein Maul gelangt, wird samt Knochen binnen eines Tages zersetzt.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -935,11 +651,7 @@
                     "rightAnswer": "Tentacha",
                     "imageText": "Da *** kein besonders guter Schwimmer ist, treibt es in seichten Gewässern an der Wasseroberfläche und sucht nach Beute.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -948,11 +660,7 @@
                     "rightAnswer": "Tentoxa",
                     "imageText": "Leuchten die roten Kugeln auf seinem Kopf stark auf, ist Vorsicht geboten, da es kurz danach Ultraschallwellen ausstoßen wird.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -961,11 +669,7 @@
                     "rightAnswer": "Kleinstein",
                     "imageText": "Es hält sich gern in der Nähe von Gebirgspfaden auf. Tritt man versehentlich auf eins, wird es sehr wütend. Deshalb ist höchste Vorsicht geboten.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -974,11 +678,7 @@
                     "rightAnswer": "Georok",
                     "imageText": "Es rollt sich gerne Gebirgspfade hinunter. Dabei ist es ihm egal, wer oder was sich in seinem Weg befindet.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -987,11 +687,7 @@
                     "rightAnswer": "Geowaz",
                     "imageText": "Nachdem es sich gehäutet hat, wird sein Körper weich und hell. Durch den Kontakt mit der Luft erhärtet er aber sofort wieder.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1000,11 +696,7 @@
                     "rightAnswer": "Ponita",
                     "imageText": "Nach der Geburt fällt ihm das Laufen schwer. Die Wettrennen, die es sich mit seinen Freunden liefert, stärken jedoch seine Beinmuskulatur.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1013,11 +705,7 @@
                     "rightAnswer": "Gallopa",
                     "imageText": "Die lodernde Mähne dieses Pokémon flattert im Wind, wenn es mit einer Geschwindigkeit von 240 km/h über Felder und Wiesen galoppiert.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1026,11 +714,7 @@
                     "rightAnswer": "Flegmon",
                     "imageText": "Es ist so träge und unempfindlich, dass es keinen Schmerz verspürt, wenn seine Rute gegessen wird. Es bemerkt nicht einmal, dass sie nachwächst.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1039,11 +723,7 @@
                     "rightAnswer": "Lahmus",
                     "imageText": "Es entwickelte sich, als ein Muschas in seine Rute biss. Das süße Aroma, das aus der Rute strömt, hat Muschas in eine Art Trance versetzt.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1052,11 +732,7 @@
                     "rightAnswer": "Magnetilo",
                     "imageText": "Manchmal geht die Elektrizität in seinem Körper zur Neige, woraufhin es zu Boden fällt. Eine Batterie bringt es wieder in Bewegung.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1065,11 +741,7 @@
                     "rightAnswer": "Magneton",
                     "imageText": "Es entsteht durch den Zusammenschluss dreier Magnetilo und sendet starke Radiowellen aus, um seine Umgebung zu untersuchen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1078,11 +750,7 @@
                     "rightAnswer": "Porenta",
                     "imageText": "Unter seinem Flügel trägt es eine Lauchstange, die es wie ein Schwert gegen Feinde einsetzt und welche ihm im Bedarfsfall auch als Nahrung dient.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1091,11 +759,7 @@
                     "rightAnswer": "Dodu",
                     "imageText": "Es kann nicht gut fliegen, weil seine Flügel zu klein sind. Dafür kann es mit seinen starken Beinen sehr schnell laufen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1104,11 +768,7 @@
                     "rightAnswer": "Dodri",
                     "imageText": "Bei der Entwicklung zu *** hat sich einer von Dodus Köpfen in zwei geteilt. Es flitzt mit einer Geschwindigkeit von 60 km/h über Wiesen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1117,11 +777,7 @@
                     "rightAnswer": "Jurob",
                     "imageText": "Es bevorzugt eiskalte Lebensräume und schwimmt mit Vorliebe in -10 ºC kaltem Wasser.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1130,11 +786,7 @@
                     "rightAnswer": "Jugong",
                     "imageText": "Sein ganzer Körper ist schneeweiß. Da ihm Kälte nichts ausmacht, kann es selbst in Eiswasser kraftvoll schwimmen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1143,11 +795,7 @@
                     "rightAnswer": "Sleima",
                     "imageText": "*** ist aus erhärtetem Schlamm entstanden. Es riecht sehr penetrant und man sollte es nicht berühren. Wo es hintritt, wächst kein Gras mehr.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1156,11 +804,7 @@
                     "rightAnswer": "Sleimok",
                     "imageText": "Sein fürchterlicher Gestank kann zur Ohnmacht führen. Da seine Nase so verkümmert ist, kann es selbst nichts mehr riechen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1169,11 +813,7 @@
                     "rightAnswer": "Muschas",
                     "imageText": "Es schwimmt rückwärts, indem es seine Schale öffnet und schließt, und ist damit überraschend schnell.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1182,11 +822,7 @@
                     "rightAnswer": "Austos",
                     "imageText": "Seine Schale ist extrem hart und kann nicht einmal durch eine Bombe zerschmettert werden. Sie öffnet sich nur, wenn es angreift.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1195,11 +831,7 @@
                     "rightAnswer": "Nebulak",
                     "imageText": "Es ist aus Gasen entstanden. Wird jemand in seinen gasförmigen, giftigen Körper gehüllt, so fällt er in Ohnmacht.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1208,11 +840,7 @@
                     "rightAnswer": "Alpollo",
                     "imageText": "Seine Zunge besteht aus Gas. Schleckt es seine Opfer damit ab, zittern diese unentwegt, bis sie schließlich entschlafen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1221,11 +849,7 @@
                     "rightAnswer": "Gengar",
                     "imageText": "Wenn Schatten bei Vollmond plötzlich anfangen, sich zu bewegen und zu lachen, steckt zweifellos *** dahinter.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1234,11 +858,7 @@
                     "rightAnswer": "Onix",
                     "imageText": "Wenn es sich durch die Erde gräbt, nimmt es viele harte Gegenstände auf, die seinen Körper erhärten.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1247,11 +867,7 @@
                     "rightAnswer": "Traumato",
                     "imageText": "Wenn man immer in der Nähe eines *** schläft, zeigt es einem nachts manchmal Träume, die es vor langer Zeit verspeist hat.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1260,11 +876,7 @@
                     "rightAnswer": "Hypno",
                     "imageText": "Läuft man einem *** über den Weg, sollte man wegsehen, da es andere mit dem Pendel in seiner Hand hypnotisieren kann.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1273,11 +885,7 @@
                     "rightAnswer": "Krabby",
                     "imageText": "Es kommt vor allem nahe dem Meer vor. Die großen Scheren wachsen nach, wenn sie vom Körper abgetrennt wurden.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1286,11 +894,7 @@
                     "rightAnswer": "Kingler",
                     "imageText": "Die Kraft seiner großen und harten Schere entspricht 10 000 PS. Durch die Größe ist sie aber auch äußerst unhandlich und sperrig.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1299,11 +903,7 @@
                     "rightAnswer": "Voltobal",
                     "imageText": "Man sagt, es tarne sich als Pokéball, um sich zu schützen. Allerdings zerstört es sich schon bei der kleinsten äußeren Einwirkung selbst.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1312,11 +912,7 @@
                     "rightAnswer": "Lektrobal",
                     "imageText": "Es speichert elektrische Energie in seinem Körper. Schon die geringste Erschütterung lässt es explodieren.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1325,11 +921,7 @@
                     "rightAnswer": "Owei",
                     "imageText": "*** mag zwar Eiern ähneln, ist aber ein echtes Pokémon, das aus sechs Individuen besteht, die wohl telepathisch miteinander kommunizieren.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1338,11 +930,7 @@
                     "rightAnswer": "Kokowei",
                     "imageText": "Jeder der drei Köpfe hat einen eigenen Willen und scheint sich nur für sich selbst zu interessieren.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1351,11 +939,7 @@
                     "rightAnswer": "Tragosso",
                     "imageText": "Denkt *** an seine verstorbene Mutter, so weint es. Sein Schluchzen hallt dabei in dem Schädel auf seinem Kopf klagend wider.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1364,11 +948,7 @@
                     "rightAnswer": "Knogga",
                     "imageText": "Als es seine Trauer überwand, entwickelte es sich und wurde stärker. Mit seinem Knochen als Waffe stellt sich *** mutig seinen Feinden.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1377,11 +957,7 @@
                     "rightAnswer": "Kicklee",
                     "imageText": "Dieses Pokémon besitzt einen formidablen Gleichgewichtssinn. Es kann in jeder Position pausenlos zutreten.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1390,11 +966,7 @@
                     "rightAnswer": "Nockchan",
                     "imageText": "Seine Fäuste zerschneiden regelrecht die Luft. Sie sind so schnell, dass selbst die geringste Berührung Verbrennungen verursacht.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1403,11 +975,7 @@
                     "rightAnswer": "Schlurp",
                     "imageText": "Wäscht man sich nach der Berührung mit seinem klebrigen Speichel nicht, setzt bald ein starker Juckreiz ein, der nicht mehr zu stoppen ist.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1416,11 +984,7 @@
                     "rightAnswer": "Smogon",
                     "imageText": "Sein Körper ist zum Bersten voll mit Giftgas. Angelockt vom fauligen Geruch verrottender Abfälle, lungert es auf Müllhalden herum.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1429,11 +993,7 @@
                     "rightAnswer": "Smogmog",
                     "imageText": "In seinen beiden Körpern vermischt es Gase. Man sagt, dass es früher überall in der Galar-Region anzutreffen gewesen sei.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1442,11 +1002,7 @@
                     "rightAnswer": "Rihorn",
                     "imageText": "Dieses Pokémon ist zwar nicht besonders klug, aber dafür so stark, dass es durch Rammen sogar Hochhäuser zum Einsturz bringen kann.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1455,11 +1011,7 @@
                     "rightAnswer": "Rizeros",
                     "imageText": "Nach seiner Entwicklung geht es aufrecht auf seinen Hinterbeinen. Mit seinem Horn kann es Löcher in Felsen bohren.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1468,11 +1020,7 @@
                     "rightAnswer": "Chaneira",
                     "imageText": "Seine Eier sind äußerst nahrhaft und schmecken köstlich, weshalb sie als erlesene Kochzutat gelten.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1481,11 +1029,7 @@
                     "rightAnswer": "Tangela",
                     "imageText": "Seine wahre Gestalt ist weiterhin ein Mysterium, da sie von Ranken verdeckt wird, die unaufhörlich nachwachsen, selbst wenn sie abreißen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1494,11 +1038,7 @@
                     "rightAnswer": "Kangama",
                     "imageText": "Obwohl es sein Junges im Beutel trägt, bewegt sich dieses Pokémon äußerst leichtfüßig. Gegner schreckt *** mit blitzschnellen Schlägen ab.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1507,11 +1047,7 @@
                     "rightAnswer": "Seeper",
                     "imageText": "Es lebt in Meeren mit ruhigem Gezeitenstrom. Wird es angegriffen, versprüht es tiefschwarze Tinte und ergreift daraufhin die Flucht.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1520,11 +1056,7 @@
                     "rightAnswer": "Seemon",
                     "imageText": "Männlichen *** obliegt es, den Nachwuchs großzuziehen. In diesem Zeitraum ist das Gift in ihren Rückenstacheln stärker und dickflüssiger.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1533,11 +1065,7 @@
                     "rightAnswer": "Goldini",
                     "imageText": "Seine Brust-, Rücken- und Schwanzflossen bewegen sich anmutig. Daher nennt man es den „Wassertänzer“.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1546,11 +1074,7 @@
                     "rightAnswer": "Golking",
                     "imageText": "Im Herbst legt es an Gewicht zu und erscheint in prächtigen Farben, um so einen Partner anzulocken.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1559,11 +1083,7 @@
                     "rightAnswer": "Sterndu",
                     "imageText": "Bei spätsommerlichen Strandbesuchen kann man Gruppen von *** begegnen, deren Kerne in gleichmäßigem Rhythmus aufblinken.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1572,11 +1092,7 @@
                     "rightAnswer": "Starmie",
                     "imageText": "Das als Kern bezeichnete Organ dieses Pokémon erstrahlt in den sieben Farben des Regenbogens, wenn *** mächtige Psycho-Kräfte entfesselt.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1585,11 +1101,7 @@
                     "rightAnswer": "Pantimos",
                     "imageText": "Viele Forscher glauben, seine Hände hätten nur deshalb so eine beachtliche Größe angenommen, damit es Pantomime praktizieren kann.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1598,11 +1110,7 @@
                     "rightAnswer": "Sichlor",
                     "imageText": "Mit jedem Kampf werden seine Sicheln schärfer. Es kann selbst einen massiven Baumstamm mit nur einem Schnitt zerteilen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1611,11 +1119,7 @@
                     "rightAnswer": "Rossana",
                     "imageText": "Es scheint sich mit einem besonderen Rhythmus zu bewegen. Beim Laufen schwingt es die Hüften und sieht so aus, als würde es tanzen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1624,11 +1128,7 @@
                     "rightAnswer": "Elektek",
                     "imageText": "Größere Stromausfälle sind fast immer darauf zurückzuführen, dass ein *** den Strom eines Kraftwerks einfach gefressen hat.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1637,11 +1137,7 @@
                     "rightAnswer": "Magmar",
                     "imageText": "*** werden in Vulkankratern geboren. Sie sehen aus wie Feuerbälle, da ihr ganzer Körper in Flammen gehüllt ist.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1650,11 +1146,7 @@
                     "rightAnswer": "Pinsir",
                     "imageText": "Der Status eines *** hängt von seinen Hörnern ab. Je dicker und stattlicher diese sind, desto beliebter ist es beim anderen Geschlecht.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1663,11 +1155,7 @@
                     "rightAnswer": "Tauros",
                     "imageText": "Peitscht es seinen Körper mit seinen Schweifen aus, ist Vorsicht geboten, denn es steht kurz davor, mit Karacho auf sein Ziel loszustürmen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1676,11 +1164,7 @@
                     "rightAnswer": "Karpador",
                     "imageText": "Es ist nutzlos, was Kraft und Geschwindigkeit angeht. Dieses Pokémon ist das schwächste und erbärmlichste der Welt.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1689,11 +1173,7 @@
                     "rightAnswer": "Garados",
                     "imageText": "Es ist von Natur aus sehr aggressiv. Der Hyperstrahl, den es aus seinem Maul verschießt, äschert seine Gegner ein.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1702,11 +1182,7 @@
                     "rightAnswer": "Lapras",
                     "imageText": "Ein intelligentes und herzensgutes Pokémon. Während es auf dem Meer schwimmt, lässt es seinen herrlichen Gesang erklingen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1715,11 +1191,7 @@
                     "rightAnswer": "Ditto",
                     "imageText": "Es modifiziert seine Zellstruktur, um sich in alles zu verwandeln, was es sieht. Im entspannten Zustand nimmt es wieder seine Ausgangsform an.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1728,11 +1200,7 @@
                     "rightAnswer": "Evoli",
                     "imageText": "Es ist imstande, seinen Körper perfekt an die jeweilige Umgebung anzupassen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1741,11 +1209,7 @@
                     "rightAnswer": "Aquana",
                     "imageText": "Wenn seine Flossen beginnen zu vibrieren, ist das ein sicheres Zeichen dafür, dass in den nächsten Stunden Regen aufziehen wird.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1754,11 +1218,7 @@
                     "rightAnswer": "Blitza",
                     "imageText": "Wenn es erschrickt oder wütend wird, stellt sich sein Fell auf wie scharfe Nadeln und sticht den Gegner.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1767,11 +1227,7 @@
                     "rightAnswer": "Flamara",
                     "imageText": "Wenn die Flamme in seinem Körper heiß genug brennt, kann seine Körpertemperatur bis zu 900 ºC erreichen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1780,11 +1236,7 @@
                     "rightAnswer": "Porygon",
                     "imageText": "Es ist weltweit das erste künstliche Pokémon, das dank neuester Technologien mittels Computerprogrammen erschaffen wurde.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1793,11 +1245,7 @@
                     "rightAnswer": "Amonitas",
                     "imageText": "Es wurde aus einem Fossil zurückverwandelt. In der Urzeit schwamm es durch geschicktes Bewegen seiner zehn Tentakel durch das Meer.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1806,11 +1254,7 @@
                     "rightAnswer": "Amoroso",
                     "imageText": "Es verfügt über sehr scharfe Zähne. Offenbar starb es aus, weil seine Schale zu groß war und es sich daher nicht frei bewegen konnte.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1819,11 +1263,7 @@
                     "rightAnswer": "Kabuto",
                     "imageText": "Es wurde aus einem Fossil zurückverwandelt. Aus Verstecken am Meeresboden spähte es mit den Augen auf seinem Rücken die Gegend aus.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1832,11 +1272,7 @@
                     "rightAnswer": "Kabutops",
                     "imageText": "Sein dünner Körper ließ es rasant schwimmen. Offenbar schlitzte es seine Beute mit seinen Sicheln auf und saugte ihr die Körpersäfte aus.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1845,11 +1281,7 @@
                     "rightAnswer": "Aerodactyl",
                     "imageText": "Dieses wilde Pokémon aus der Urzeit wurde mithilfe von in Bernstein eingeschlossenem Genmaterial wieder zum Leben erweckt.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1858,11 +1290,7 @@
                     "rightAnswer": "Relaxo",
                     "imageText": "Es muss über 400 kg Nahrung am Tag fressen, um satt zu werden. Ist es mit dem Essen fertig, schläft es sofort ein.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1871,11 +1299,7 @@
                     "rightAnswer": "Arktos",
                     "imageText": "Ein Legendäres Vogel-Pokémon, das im Winter die Wasserpartikel in der Luft gefrieren lässt, um Schnee zu erzeugen.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1884,11 +1308,7 @@
                     "rightAnswer": "Zapdos",
                     "imageText": "Dieses Legendäre Vogel-Pokémon erscheint, wenn sich der Himmel verdunkelt und Blitze unablässig herunterdonnern.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1897,11 +1317,7 @@
                     "rightAnswer": "Lavados",
                     "imageText": "Wenn dieses Legendäre Vogel-Pokémon mit seinen lodernden Flügeln schlägt, erstrahlt sogar der Nachthimmel in gleißendem Rot.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1910,11 +1326,7 @@
                     "rightAnswer": "Dratini",
                     "imageText": "Die Existenz dieses mythischen Pokémon wurde erst kürzlich bestätigt, als es von einem Angler an Land gezogen wurde.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1923,11 +1335,7 @@
                     "rightAnswer": "Dragonir",
                     "imageText": "Augenzeugenberichten zufolge wird *** Körper von einer seltsamen Aura umgeben, die ihm eine mysteriöse Ausstrahlung verleiht.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1936,11 +1344,7 @@
                     "rightAnswer": "Dragoran",
                     "imageText": "Es heißt, dass *** in einem entlegenen Winkel des Meeres zu Hause sei und fliegen könne, doch das sind nur Gerüchte.",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1949,11 +1353,7 @@
                     "rightAnswer": "*** und *** weisen sehr ähnliche Gene auf, doch hinsichtlich ihres Charakters und ihrer Größe unterscheiden sich die beiden erheblich.",
                     "imageText": "",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 },
@@ -1962,11 +1362,7 @@
                     "rightAnswer": "Wenn man *** Haut mithilfe eines Mikroskops betrachtet, so erkennt man ein Fell aus vielen feinen und kurzen Härchen.",
                     "imageText": "",
                     "imageDescription": "",
-                    "wrongAnswers": [
-                        "?",
-                        "?",
-                        "?"
-                    ],
+                    "wrongAnswers": [],
                     "gameType": 4,
                     "cost": 0
                 }
