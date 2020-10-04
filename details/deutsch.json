@@ -12012,192 +12012,200 @@
             ]
         }
     ],
-    "gameItems": [
-        {
-            "key": 0,
-            "value": "Spielen"
-        },
-        {
-            "key": 1,
-            "value": "Info"
-        },
-        {
-            "key": 2,
-            "value": "Beenden"
-        },
-        {
-            "key": 3,
-            "value": "Zurück"
-        },
-        {
-            "key": 4,
-            "value": "* Disclaimer * Guess the PokeQuiz is an unofficial, free fan made app and is NOT affiliated, endorsed or supported by Nintendo, GAME FREAK or The Pokemon company in any way. Some images used in this app are copyrighted and are supported under fair use. Pokemon and Pokemon character names are trademarks of Nintendo. No copyright infringement intended.  Pokemon © 2002-2019 Pokemon. © 1995-2019 Nintendo/Creatures Inc./GAME FREAK inc."
-        },
-        {
-            "key": 5,
-            "value": "Gesperrt"
-        },
-        {
-            "key": 6,
-            "value": "Ein Buchstabe sehen"
-        },
-        {
-            "key": 7,
-            "value": "Buchstaben löschen"
-        },
-        {
-            "key": 8,
-            "value": "Frage auflösen"
-        },
-        {
-            "key": 9,
-            "value": "Mehr Poke$"
-        },
-        {
-            "key": 10,
-            "value": "Werbung ansehen"
-        },
-        {
-            "key": 11,
-            "value": "Poke$ kaufen"
-        },
-        {
-            "key": 12,
-            "value": "Weiter"
-        },
-        {
-            "key": 13,
-            "value": "Hauptmenü"
-        },
-        {
-            "key": 14,
-            "value": "Level abgeschlossen!"
-        },
-        {
-            "key": 15,
-            "value": "Dir gefällt das Quiz? Hinterlasse jetzt eine Bewertung."
-        },
-        {
-            "key": 16,
-            "value": "Jetzt Bewerten"
-        },
-        {
-            "key": 18,
-            "value": "Später Bewerten"
-        },
-        {
-            "key": 17,
-            "value": "Nie Bewerten"
-        },
-        {
-            "key": 19,
-            "value": "Zustimmung zur Datenerhebung"
-        },
-        {
-            "key": 20,
-            "value": "Personalisierte Anzeigen"
-        },
-        {
-            "key": 21,
-            "value": "Erlaube AD-Netzwerken, die gesammelten Daten für personalisierte Werbung zu nutzen."
-        },
-        {
-            "key": 22,
-            "value": "Ja"
-        },
-        {
-            "key": 23,
-            "value": "Nein"
-        },
-        {
-            "key": 24,
-            "value": "Es sieht aus als hättest du bereits einen weiteren Fortschritt."
-        },
-        {
-            "key": 25,
-            "value": "Willst du ihn laden?"
-        },
-        {
-            "key": 26,
-            "value": "Hallo Spieler*in, wir nutzen, um unsere App zu optimieren, die Spiele- und Gerätedaten. Mit drücken auf \"Bestätigen\" stimmen Sie dem zu. Ansonsten beenden Sie die App."
-        },
-        {
-            "key": 27,
-            "value": "Möchtest du, dass wir dir Werbung anzeigen, die auf dich abgestimmt ist?"
-        },
-        {
-            "key": 28,
-            "value": "Bestätigen"
-        },
-        {
-            "key": 29,
-            "value": "Mehr Erfahren"
-        },
-        {
-            "key": 30,
-            "value": "Falsche Antwort löschen"
-        },
-        {
-            "key": 31,
-            "value": "2 flasche Antworten löschen"
-        },
-        {
-            "key": 32,
-            "value": "2 Versuche"
-        },
-        {
-            "key": 33,
-            "value": "Bitte hilf mir das Rätsel zu lösen. Weißt du die antwort?"
-        },
-        {
-            "key": 34,
-            "value": "Brauche hilfe von euch."
-        },
-        {
-            "key": 35,
-            "value": "Frag deine Freunde"
-        },
-        {
-            "key": 36,
-            "value": "Einsatz"
-        },
-        {
-            "key": 37,
-            "value": "Benutze Hinweise, wenn du nicht weiterkommst!"
-        },
-        {
-            "key": 38,
-            "value": "Tippe auf einen Buchstaben um ihn zu löschen oder wische über alle um alle zu löschen."
-        },
-        {
-            "key": 39,
-            "value": "Rubbel die Folie ab um mehr zu sehen."
-        },
-        {
-            "key": 40,
-            "value": "Klicke auf das Bild um das Bild besser zu sehen."
-        },
-        {
-            "key": 41,
-            "value": "Klicke auf das Bild um das Bild besser zu sehen."
-        },
-        {
-            "key": 42,
-            "value": "Drücke hier um das Visier zu bewegen. Nochmal drücken um die fläsche zu löschen."
-        },
-        {
-            "key": 43,
-            "value": "Drücke hier um das Visier zu bewegen. Nochmal drücken um die fläsche zu löschen."
-        },
-        {
-            "key": 44,
-            "value": "Drücke hier um mehr Informationen über die Frage zu erhalten."
-        },
-        {
-            "key": 45,
-            "value": "Ist die Frage zu schwer? Machen sie einfach einen kleinen Einsatz."
-        }
-    ],
+  "gameItems": [
+    {
+      "key": 0,
+      "value": "Spielen"
+    },
+    {
+      "key": 1,
+      "value": "Info"
+    },
+    {
+      "key": 2,
+      "value": "Beenden"
+    },
+    {
+      "key": 3,
+      "value": "Zurück"
+    },
+    {
+      "key": 4,
+      "value": "* Disclaimer * Guess the PokeQuiz is an unofficial, free fan made app and is NOT affiliated, endorsed or supported by Nintendo, GAME FREAK or The Pokemon company in any way. Some images used in this app are copyrighted and are supported under fair use. Pokemon and Pokemon character names are trademarks of Nintendo. No copyright infringement intended.  Pokemon © 2002-2019 Pokemon. © 1995-2019 Nintendo/Creatures Inc./GAME FREAK inc."
+    },
+    {
+      "key": 5,
+      "value": "Gesperrt"
+    },
+    {
+      "key": 6,
+      "value": "Ein Buchstabe sehen"
+    },
+    {
+      "key": 7,
+      "value": "Buchstaben löschen"
+    },
+    {
+      "key": 8,
+      "value": "Frage auflösen"
+    },
+    {
+      "key": 9,
+      "value": "Mehr Poke$"
+    },
+    {
+      "key": 10,
+      "value": "Werbung ansehen"
+    },
+    {
+      "key": 11,
+      "value": "Poke$ kaufen"
+    },
+    {
+      "key": 12,
+      "value": "Weiter"
+    },
+    {
+      "key": 13,
+      "value": "Hauptmenü"
+    },
+    {
+      "key": 14,
+      "value": "Level abgeschlossen!"
+    },
+    {
+      "key": 15,
+      "value": "Dir gefällt das Quiz? Hinterlasse jetzt eine Bewertung."
+    },
+    {
+      "key": 16,
+      "value": "Jetzt Bewerten"
+    },
+    {
+      "key": 18,
+      "value": "Später Bewerten"
+    },
+    {
+      "key": 17,
+      "value": "Nie Bewerten"
+    },
+    {
+      "key": 19,
+      "value": "Zustimmung zur Datenerhebung"
+    },
+    {
+      "key": 20,
+      "value": "Personalisierte Anzeigen"
+    },
+    {
+      "key": 21,
+      "value": "Erlaube AD-Netzwerken, die gesammelten Daten für personalisierte Werbung zu nutzen."
+    },
+    {
+      "key": 22,
+      "value": "Ja"
+    },
+    {
+      "key": 23,
+      "value": "Nein"
+    },
+    {
+      "key": 24,
+      "value": "Es sieht aus als hättest du bereits einen weiteren Fortschritt."
+    },
+    {
+      "key": 25,
+      "value": "Willst du ihn laden?"
+    },
+    {
+      "key": 26,
+      "value": "Hallo Spieler*in, wir nutzen, um unsere App zu optimieren, die Spiele- und Gerätedaten. Mit drücken auf \"Bestätigen\" stimmen Sie dem zu. Ansonsten beenden Sie die App."
+    },
+    {
+      "key": 27,
+      "value": "Möchtest du, dass wir dir Werbung anzeigen, die auf dich abgestimmt ist?"
+    },
+    {
+      "key": 28,
+      "value": "Bestätigen"
+    },
+    {
+      "key": 29,
+      "value": "Mehr Erfahren"
+    },
+    {
+      "key": 30,
+      "value": "Falsche Antwort löschen"
+    },
+    {
+      "key": 31,
+      "value": "2 flasche Antworten löschen"
+    },
+    {
+      "key": 32,
+      "value": "2 Versuche"
+    },
+    {
+      "key": 33,
+      "value": "Bitte hilf mir das Rätsel zu lösen. Weißt du die antwort?"
+    },
+    {
+      "key": 34,
+      "value": "Brauche hilfe von euch."
+    },
+    {
+      "key": 35,
+      "value": "Frag deine Freunde"
+    },
+    {
+      "key": 36,
+      "value": "Einsatz"
+    },
+    {
+      "key": 37,
+      "value": "Benutze Hinweise, wenn du nicht weiterkommst!"
+    },
+    {
+      "key": 38,
+      "value": "Tippe auf einen Buchstaben um ihn zu löschen oder wische über alle um alle zu löschen."
+    },
+    {
+      "key": 39,
+      "value": "Rubbel die Folie ab um mehr zu sehen."
+    },
+    {
+      "key": 40,
+      "value": "Klicke auf das Bild um das Bild besser zu sehen."
+    },
+    {
+      "key": 41,
+      "value": "Klicke auf das Bild um das Bild besser zu sehen."
+    },
+    {
+      "key": 42,
+      "value": "Drücke hier um das Visier zu bewegen. Nochmal drücken um die fläsche zu löschen."
+    },
+    {
+      "key": 43,
+      "value": "Drücke hier um das Visier zu bewegen. Nochmal drücken um die fläsche zu löschen."
+    },
+    {
+      "key": 44,
+      "value": "Drücke hier um mehr Informationen über die Frage zu erhalten."
+    },
+    {
+      "key": 45,
+      "value": "Ist die Frage zu schwer? Machen sie einfach einen kleinen Einsatz."
+    },
+    {
+      "key": 46,
+      "value": "Mehr Spiele!"
+    },
+    {
+      "key": 47,
+      "value": "Nochmal"
+    }
+  ],
     "subCategories": [
         {
             "iconName": "WerBinIch",

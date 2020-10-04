@@ -12193,10 +12193,18 @@
             "key": 44,
             "value": "Drücke hier um mehr Informationen über die Frage zu erhalten."
         },
-        {
-            "key": 45,
-            "value": "Ist die Frage zu schwer? Machen sie einfach einen kleinen Einsatz."
-        }
+      {
+        "key": 45,
+        "value": "Ist die Frage zu schwer? Machen sie einfach einen kleinen Einsatz."
+      }
+      {
+        "key": 46,
+        "value": "Mehr Spiele!"
+      }
+      {
+        "key": 47,
+        "value": "Nochmal"
+      }
     ],
     "subCategories": [
         {
