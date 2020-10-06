@@ -3,7 +3,7 @@
         {
             "name": "1Generation",
             "localizedName": "1. Generation",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -2689,7 +2689,7 @@
         {
             "name": "2Generation",
             "localizedName": "2. Generation",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -3598,7 +3598,7 @@
         {
             "name": "3Generation",
             "localizedName": "3. Generation",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -4822,7 +4822,7 @@
         {
             "name": "4Generation",
             "localizedName": "4. Generation",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -5803,7 +5803,7 @@
         {
             "name": "5Generation",
             "localizedName": "5. Generation",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -7207,7 +7207,7 @@
         {
             "name": "6Generation",
             "localizedName": "6. Generation",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -7864,7 +7864,7 @@
         {
             "name": "7Generation",
             "localizedName": "7. Generation",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -8647,7 +8647,7 @@
         {
             "name": "8Generation",
             "localizedName": "8. Generation",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -9439,7 +9439,7 @@
         {
             "name": "Champs",
             "localizedName": "Champs",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -9538,7 +9538,7 @@
         {
             "name": "SpecialP",
             "localizedName": "Sonstige",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -10177,7 +10177,7 @@
         {
             "name": "Gigadynamax",
             "localizedName": "Gigadynamax",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -10483,7 +10483,7 @@
         {
             "name": "OrdenKanto",
             "localizedName": "Kanto Orden",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -10564,7 +10564,7 @@
         {
             "name": "OrdenJohto",
             "localizedName": "Johto Orden",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -10645,7 +10645,7 @@
         {
             "name": "OrdenHoenn",
             "localizedName": "Hoenn Orden",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -10726,7 +10726,7 @@
         {
             "name": "OrdenSinnoh",
             "localizedName": "Sinnoh Orden",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -10807,7 +10807,7 @@
         {
             "name": "OrdenEinall",
             "localizedName": "Einall Orden",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -10906,7 +10906,7 @@
         {
             "name": "OrdenKalos",
             "localizedName": "Kalos Orden",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -10987,7 +10987,7 @@
         {
             "name": "OrdenGalar",
             "localizedName": "Galar Orden",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -11086,7 +11086,7 @@
         {
             "name": "Top4Kanto",
             "localizedName": "Kanto Top 4",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -11131,7 +11131,7 @@
         {
             "name": "Top4Johto",
             "localizedName": "Johto Top 4",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -11176,7 +11176,7 @@
         {
             "name": "Top4Hoenn",
             "localizedName": "Hoenn Top 4",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -11221,7 +11221,7 @@
         {
             "name": "Top4Sinnoh",
             "localizedName": "Sinnoh Top 4",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -11266,7 +11266,7 @@
         {
             "name": "Top4Einall",
             "localizedName": "Einall Top 4",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -11311,7 +11311,7 @@
         {
             "name": "Top4Kalos",
             "localizedName": "Kalos Top 4",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
@@ -11356,7 +11356,7 @@
         {
             "name": "Top4Alola",
             "localizedName": "Alola Top 4",
-            "gameType": 4,
+            "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
