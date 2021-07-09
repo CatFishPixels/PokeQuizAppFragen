@@ -11420,7 +11420,9 @@
                     "imageText": "Pikachu hat ein Oranges Fels!",
                     "imageDescription": "",
                     "wrongAnswers": [
-                        "Wahr"
+                        "Wahr",
+                        " ",
+                        " "
                     ],
                     "gameType": 5,
                     "cost": 0
@@ -11431,7 +11433,9 @@
                     "imageText": "Voltobal ist oben Weiß und unten Rot!",
                     "imageDescription": "",
                     "wrongAnswers": [
-                        "Wahr"
+                        "Wahr",
+                        " ",
+                        " "
                     ],
                     "gameType": 5,
                     "cost": 0
@@ -11442,7 +11446,9 @@
                     "imageText": "Misty ist die Arenaleiterin in Azuria City!",
                     "imageDescription": "",
                     "wrongAnswers": [
-                        "Falsch"
+                        "Falsch",
+                        " ",
+                        " "
                     ],
                     "gameType": 5,
                     "cost": 0
@@ -11453,7 +11459,9 @@
                     "imageText": "Die Mehrzahl von Pokemon ist Pokemons!",
                     "imageDescription": "",
                     "wrongAnswers": [
-                        "Wahr"
+                        "Wahr",
+                        " ",
+                        " "
                     ],
                     "gameType": 5,
                     "cost": 0
@@ -11464,7 +11472,9 @@
                     "imageText": "Raupy ist ein Pokemon vom Typ Käfer!",
                     "imageDescription": "",
                     "wrongAnswers": [
-                        "Falsch"
+                        "Falsch",
+                        " ",
+                        " "
                     ],
                     "gameType": 5,
                     "cost": 0
