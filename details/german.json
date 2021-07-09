@@ -11406,6 +11406,70 @@
                     "cost": 0
                 }
             ]
+        },
+        {
+            "name": "ToFGen1",
+            "localizedName": "1. Generation",
+            "gameType": 5,
+            "useMixedTypes": false,
+            "orderNumber": 1,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "Falsch",
+                    "imageText": "Pikachu hat ein Oranges Fels!",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "Wahr"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "Falsch",
+                    "imageText": "Voltobal ist oben Weiß und unten Rot!",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "Wahr"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "Wahr",
+                    "imageText": "Misty ist die Arenaleiterin in Azuria City!",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "Falsch"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "Falsch",
+                    "imageText": "Die Mehrzahl von Pokemon ist Pokemons!",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "Wahr"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "Wahr",
+                    "imageText": "Raupy ist ein Pokemon vom Typ Käfer!",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "Falsch"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                }
+            ]
         }
     ],
     "gameItems": [
@@ -11650,6 +11714,13 @@
                 "OrdenEinall",
                 "OrdenKalos",
                 "OrdenGalar"
+            ]
+        },
+        {
+            "iconName": "TrueOrFalse",
+            "localizedTitle": "Wahr oder Falsch",
+            "subcategories": [
+                "ToFGen1"
             ]
         }
     ],
