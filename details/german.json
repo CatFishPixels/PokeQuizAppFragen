@@ -11725,13 +11725,6 @@
                 "OrdenKalos",
                 "OrdenGalar"
             ]
-        },
-        {
-            "iconName": "TrueOrFalse",
-            "localizedTitle": "Wahr oder Falsch",
-            "subcategories": [
-                "ToFGen1"
-            ]
         }
     ],
     "randomLetters": [
