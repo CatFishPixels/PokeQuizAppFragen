@@ -11406,6 +11406,70 @@
                     "cost": 0
                 }
             ]
+        },
+        {
+            "name": "ToFGen1",
+            "localizedName": "Generaion 1",
+            "gameType": 5,
+            "useMixedTypes": false,
+            "orderNumber": 1,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "Falsch",
+                    "imageText": "Die Mehrzahl von Pokemon ist Pokemons!",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "Wahr"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "Wahr",
+                    "imageText": "In den GameBoy Spielen konnte man sich eins von 3 Pokemon aussuchen!",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "Falsch"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "Falsch",
+                    "imageText": "Pikachu hat ein rotes Fell!",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "Wahr"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "Falsch",
+                    "imageText": "Es gibt 134 Pokemon in der 1. Generation!",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "Wahr"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "Wahr",
+                    "imageText": "Raupy hat den Typ Käfer!",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "Falsch"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                }
+            ]
         }
     ],
     "gameItems": [
@@ -11623,6 +11687,13 @@
             "subcategories": [
                 "QuizGen1",
                 "QuizGen2"
+            ]
+        },
+        {
+            "iconName": "TrueOrFalse",
+            "localizedTitle": "Wahr oder Falsch",
+            "subcategories": [
+                "ToFGen1"
             ]
         },
         {
