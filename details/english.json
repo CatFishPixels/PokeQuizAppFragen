@@ -9433,6 +9433,33 @@
                     "wrongAnswers": [],
                     "gameType": 0,
                     "cost": 0
+                },
+                {
+                    "number": 87,
+                    "rightAnswer": "Glastrier",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 87,
+                    "rightAnswer": "Spectrier",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 87,
+                    "rightAnswer": "Calyrex",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 }
             ]
         },

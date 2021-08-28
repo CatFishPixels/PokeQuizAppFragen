@@ -9433,6 +9433,33 @@
                     "wrongAnswers": [],
                     "gameType": 0,
                     "cost": 0
+                },
+                {
+                    "number": 87,
+                    "rightAnswer": "Polaross",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 87,
+                    "rightAnswer": "Phantoross",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 87,
+                    "rightAnswer": "Coronospa",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
                 }
             ]
         },
